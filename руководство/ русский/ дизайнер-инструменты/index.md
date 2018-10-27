@@ -36,3 +36,4 @@ localeTitle: Дизайнерские инструменты
 
 *   [Выбор цвета](https://addons.mozilla.org/en-us/firefox/addon/colorzilla/?src=collection&collection_id=90e68e6a-f13f-5921-3412-5228262ca9db)
 *   [Инструменты разработчика для реактивов](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/)
+My chance
